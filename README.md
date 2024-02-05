@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rramyap920@gmail.com**
 
-- 📄 **My resume** [https://drive.google.com/file/d/1gMw8sQ_wi0nj0qfUZpx7oVfr5nNeDF4S/view?usp=drivesdk](https://drive.google.com/file/d/1gMw8sQ_wi0nj0qfUZpx7oVfr5nNeDF4S/view?usp=drivesdk)
+- 📄 My resume [https://drive.google.com/file/d/1gMw8sQ_wi0nj0qfUZpx7oVfr5nNeDF4S/view?usp=drivesdk](https://drive.google.com/file/d/1gMw8sQ_wi0nj0qfUZpx7oVfr5nNeDF4S/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
