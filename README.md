@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Ramya P</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
@@ -7,7 +9,8 @@
 
 - 📫 How to reach me **rramyap920@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1gMw8sQ_wi0nj0qfUZpx7oVfr5nNeDF4S/view?usp=drivesdk](https://drive.google.com/file/d/1gMw8sQ_wi0nj0qfUZpx7oVfr5nNeDF4S/view?usp=drivesdk)
+- 📄 My resume <a href="https://drive.google.com/file/d/1gMw8sQ_wi0nj0qfUZpx7oVfr5nNeDF4S/view?usp=drivesdk" target="blank"> click here</a>
+-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
